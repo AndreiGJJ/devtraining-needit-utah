@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="casilla_de_prueba_con_opciones" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>casilla_de_prueba_con_opciones</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>andrei.giovanni</sys_created_by>
+            <sys_created_on>2023-10-17 19:30:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>casilla_de_prueba_con_opciones</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_casilla_de_prueba_con_opciones</sys_update_name>
+            <sys_updated_by>andrei.giovanni</sys_updated_by>
+            <sys_updated_on>2023-10-17 19:30:33</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>casilla_de_prueba_con_opciones</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>andrei.giovanni</sys_created_by>
+            <sys_created_on>2023-10-17 19:30:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrei.giovanni</sys_updated_by>
+            <sys_updated_on>2023-10-17 19:30:33</sys_updated_on>
+            <value>Choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>casilla_de_prueba_con_opciones</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>andrei.giovanni</sys_created_by>
+            <sys_created_on>2023-10-17 19:30:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrei.giovanni</sys_updated_by>
+            <sys_updated_on>2023-10-17 19:30:33</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>casilla_de_prueba_con_opciones</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>andrei.giovanni</sys_created_by>
+            <sys_created_on>2023-10-17 19:30:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>andrei.giovanni</sys_updated_by>
+            <sys_updated_on>2023-10-17 19:30:33</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
